@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991906751587",
+    "project_id": "greek-mitology",
+    "storage_bucket": "greek-mitology.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991906751587:android:bb6e6dac4547a770f10456",
+        "android_client_info": {
+          "package_name": "com.example.mitology"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlg6vV1w2m0jQguYK1NLbepXPRBvLcI1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
