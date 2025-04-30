@@ -1,4 +1,4 @@
-# 🏛️ Greek Mythology React App
+# 🏛️ Greek Mythology Flutter App
 
 Este é um projeto desenvolvido em **React + Vite** com o tema de **Mitologia Grega**. Ele exibe informações sobre deuses da mitologia usando **rotas dinâmicas** e **dados de uma API externa** (arquivo JSON hospedado no GitHub).
 
