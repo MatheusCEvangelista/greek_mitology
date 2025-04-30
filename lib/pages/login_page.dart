@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'home_screen.dart';
+import 'package:mitologia_grega_flutlab/screens/home_screen.dart';
 import 'register_page.dart';
 
 class LoginPage extends StatefulWidget {
@@ -69,7 +69,7 @@ class _LoginPageState extends State<LoginPage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Image.asset('assets/athena.png',
+            Image.asset('assets/Greek-gods.jpg',
                 height: 160), // Troque a imagem aqui
             const SizedBox(height: 32),
             Align(
