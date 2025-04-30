@@ -69,7 +69,7 @@ class _LoginPageState extends State<LoginPage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Image.asset('assets/Greek-gods.jpg',
+            Image.asset('assets/images/Greek-Gods.png',
                 height: 160), // Troque a imagem aqui
             const SizedBox(height: 32),
             Align(

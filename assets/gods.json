@@ -9,12 +9,12 @@
     "name": "Poseidon",
     "domain": "Deus dos Mares",
     "description": "Poseidon é o deus dos mares, terremotos e cavalos.",
-    "image": "assets/images/poseidon.jpg"
+    "image": "assets/images/maxresdefault.jpg"
   },
   {
     "name": "Atena",
     "domain": "Deusa da Sabedoria e Guerra",
     "description": "Atena é a deusa da sabedoria, da guerra justa e das artes.",
-    "image": "assets/images/athena.jpg"
+    "image": "assets/images/images.jpg"
   }
 ]

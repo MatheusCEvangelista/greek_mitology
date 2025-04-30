@@ -71,7 +71,8 @@ class _RegisterPageState extends State<RegisterPage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Image.asset('assets/statue.png', height: 160), // Altere a imagem
+            Image.asset('assets/images/Greek-Gods.png',
+                height: 160), // Altere a imagem
             const SizedBox(height: 32),
             Align(
               alignment: Alignment.centerLeft,
