@@ -5,6 +5,7 @@ Este é um projeto desenvolvido em **Flutter+Dart** com o tema de **Mitologia Gr
 ## 📚 Funcionalidades
 
 - 🌐 Consumo de API
+- 🔥 Autenticação via FireBase
 
 
 ## 🚀 Tecnologias Utilizadas
