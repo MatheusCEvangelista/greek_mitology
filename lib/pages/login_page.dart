@@ -37,7 +37,7 @@ class _LoginPageState extends State<LoginPage> {
 
       Navigator.pushReplacement(
         context,
-        MaterialPageRoute(builder: (context) => const HomeScreen()),
+        MaterialPageRoute(builder: (context) => HomeScreen()),
       );
     } on FirebaseAuthException catch (_) {
       ScaffoldMessenger.of(context).showSnackBar(

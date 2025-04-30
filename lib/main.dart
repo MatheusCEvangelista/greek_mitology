@@ -5,8 +5,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 // Páginas internas
 import 'package:mitologia_grega_flutlab/firebase_options.dart';
 import 'package:mitologia_grega_flutlab/pages/login_page.dart';
-import 'package:greek_mitology/pages/login_page.dart';
-import 'screens/home_screen.dart '; // Se precisar dessa página em navegação futura
+import 'package:mitologia_grega_flutlab/screens/home_screen.dart'; // Remova o espaço extra // Se precisar dessa página em navegação futura
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
